@@ -1,2 +1,6 @@
-# PruebaTaller
-Creando repositorio para el taller de GIT 25/09/2026
+# GameBox UNI
+Proyecto de práctica para Sistemas y Computación.
+ 
+## Byte
+Byte atraviesa paredes.
+
